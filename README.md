@@ -3,7 +3,7 @@
   ⛽ 전기차 급속 충전소 입지 선정</h1>
 </div>
 
-<img width="453" alt="image" src="https://github.com/Jewoos-lab/2021_KNU_AcademicFestival/assets/86662870/8f4d4147-6415-4e6e-898d-ffa7226c6990">
+<img align="center" width="453" alt="image" src="https://github.com/Jewoos-lab/2021_KNU_AcademicFestival/assets/86662870/8f4d4147-6415-4e6e-898d-ffa7226c6990">
 
 <h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
     📅 진행기간 : 2021.11.15 ~ 2021.12.02</h3>

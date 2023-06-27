@@ -6,9 +6,11 @@
 <div align="center">
   <img width="453" alt="image" src="https://github.com/Jewoos-lab/2021_KNU_AcademicFestival/assets/86662870/8f4d4147-6415-4e6e-898d-ffa7226c6990">
 </div>
-
-<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
-    📅 진행기간 : 2021.11.15 ~ 2021.12.02</h3>
+<br>
+<h4> 💭 Language : Python <br><br>
+     📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Scikit-learn <br><br>
+     🛠  Tool : Jupyter <br><br>
+     📅 진행기간 : 2022.11.15 ~ 2022.12.02</h4><br>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
